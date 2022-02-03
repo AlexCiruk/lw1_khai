@@ -11,5 +11,3 @@ button.show( );
  
 return app.exec( );
 }
-
-// commit 2

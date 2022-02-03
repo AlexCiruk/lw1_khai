@@ -13,4 +13,4 @@ return app.exec( );
 }
 
 
-// branch 1 попытка 20
+// branch 1 попытка 2
